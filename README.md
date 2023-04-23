@@ -1,1 +1,1 @@
-# Open Pubs Recommendation
+# Open Pubs Finder
